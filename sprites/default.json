@@ -1,0 +1,240 @@
+{
+  "berth": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 120,
+    "x": 280,
+    "y": 220
+  },
+  "calling-in_point": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 50,
+    "x": 140,
+    "y": 460
+  },
+  "harbour_fishing": {
+    "height": 120,
+    "pixelRatio": 1,
+    "width": 120,
+    "x": 140,
+    "y": 340
+  },
+  "harbour_generic": {
+    "height": 120,
+    "pixelRatio": 1,
+    "width": 120,
+    "x": 160,
+    "y": 180
+  },
+  "harbour_marina": {
+    "height": 120,
+    "pixelRatio": 1,
+    "width": 120,
+    "x": 180,
+    "y": 0
+  },
+  "line-style/anchorage": {
+    "height": 180,
+    "pixelRatio": 1,
+    "width": 180,
+    "x": 0,
+    "y": 0
+  },
+  "line-style/cable_submarine": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 30,
+    "x": 240,
+    "y": 120
+  },
+  "line-style/pipeline_submarine": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 30,
+    "x": 480,
+    "y": 314
+  },
+  "line-style/restricted_area": {
+    "height": 30,
+    "pixelRatio": 1,
+    "width": 30,
+    "x": 380,
+    "y": 465
+  },
+  "line-style/separation_lane": {
+    "height": 125,
+    "pixelRatio": 1,
+    "width": 40,
+    "x": 380,
+    "y": 280
+  },
+  "marine_farm": {
+    "height": 54,
+    "pixelRatio": 1,
+    "width": 54,
+    "x": 480,
+    "y": 260
+  },
+  "pilot_boarding": {
+    "height": 120,
+    "pixelRatio": 1,
+    "width": 120,
+    "x": 260,
+    "y": 300
+  },
+  "placeholder": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 400,
+    "y": 260
+  },
+  "rescue_station": {
+    "height": 100,
+    "pixelRatio": 1,
+    "width": 100,
+    "x": 280,
+    "y": 120
+  },
+  "rock_dangerous": {
+    "height": 140,
+    "pixelRatio": 1,
+    "width": 140,
+    "x": 0,
+    "y": 340
+  },
+  "seaplane": {
+    "height": 100,
+    "pixelRatio": 1,
+    "width": 100,
+    "x": 300,
+    "y": 0
+  },
+  "signal_station": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 180,
+    "y": 120
+  },
+  "small_craft_facility/boat_hoist": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 400,
+    "y": 200
+  },
+  "small_craft_facility/boat_storage": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 400,
+    "y": 0
+  },
+  "small_craft_facility/boatyard": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 460,
+    "y": 0
+  },
+  "small_craft_facility/ev_charger": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 380,
+    "y": 405
+  },
+  "small_craft_facility/fishing_spot": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 260,
+    "y": 420
+  },
+  "small_craft_facility/freshwater_tap": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 320,
+    "y": 420
+  },
+  "small_craft_facility/fuel_station": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 420,
+    "y": 260
+  },
+  "small_craft_facility/kayak": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 460,
+    "y": 200
+  },
+  "small_craft_facility/pump_out": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 420,
+    "y": 320
+  },
+  "small_craft_facility/slipway": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 480,
+    "y": 60
+  },
+  "small_craft_facility/visitor_berth": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 520,
+    "y": 0
+  },
+  "small_craft_facility/visitor_mooring": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 480,
+    "y": 120
+  },
+  "small_craft_facility/yacht_club": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 440,
+    "y": 380
+  },
+  "turning_basin": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 440,
+    "y": 440
+  },
+  "waterway_gauge": {
+    "height": 100,
+    "pixelRatio": 1,
+    "width": 100,
+    "x": 380,
+    "y": 100
+  },
+  "windsock": {
+    "height": 15,
+    "pixelRatio": 1,
+    "width": 15,
+    "x": 380,
+    "y": 200
+  },
+  "wreck_surface": {
+    "height": 160,
+    "pixelRatio": 1,
+    "width": 160,
+    "x": 0,
+    "y": 180
+  }
+}
