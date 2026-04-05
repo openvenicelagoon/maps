@@ -15,7 +15,7 @@
       "url": "pmtiles://https://openvenicelagoon.github.io/maps/sources/venice.pmtiles"
     }
   },
-  "sprite": "https://raw.githubusercontent.com/go-spatial/tegola-openseamap/refs/heads/master/spritesheet/vector-seamap.json",
+  "sprite": "https://openvenicelagoon.github.io/maps/sprites/seamarks",
   "layers": [
     {"id": "basemap", "type": "raster", "source": "basemap"},
     {
